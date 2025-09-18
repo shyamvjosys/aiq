@@ -1,0 +1,544 @@
+Asset Number,Device Status,Device Type,Manufacturer,Model Number,Model Name,Operating System,Serial Number,Device Procurement,Start Date,End Date,Additional Information,Assigned User's ID,Assigned User's Email,Assigned Date,Unassigned Date,MDM,Vendor,Apple Care,Asset Status,City,color,Region
+C02D85LDML85,In-use,Laptop,Apple,Z0Y6000SH,Macbook Pro Intel 13 Inch,Mac OS,C02D85LDML85,,2021-01-08,,,I0008,Raju.Tukadiya@josys.com,2025-06-02,,Need to Confirm,Seccom,"","",Bahadurgarh,"",India
+C02D92UAML85,Available,Laptop,Apple,Z0Y6000SH,MacBookPro,MAC OS,C02D92UAML85,,2022-03-31,,Intel Chip,,,,,Yes,Seccom,No,Used,Office Stock,"",India
+C02D92UDML85,Available,Laptop,Apple,Z0Y6000SH,Macbook Pro Intel 13 Inch,MAC OS,C02D92UDML85,,2022-02-15,2023-04-13,Out of Warranty,,,,,Need to Confirm,Seccom,Not Applicable,New,Bangalore,"",India
+C02D92U3ML85,Available,Laptop,Apple,Z0Y6000SH,MacBook Pro,MAC OS,C02D92U3ML85,,2021-12-31,,,,,,,Yes,Seccom,"","",Office Stock,"",India
+C02D92UFML85,In-use,Laptop,Apple,Z0Y6000SH,Macbook Pro Intel 13 Inch,Mac OS,C02D92UFML85,,,,Intel Laptop performance issues - Office asset used to meetings,,office.management@josys.com,2024-04-01,,Yes,Seccom,No,Used,Bangalore,"",India
+C02D85LKML85,Decommissioned,Laptop,Apple,Z0Y6000SH,"Macbook Pro Intel 13""",MAC OS,C02D85LKML85,,2021-12-31,2023-04-23,,,,,,Yes,Seccom,"","","","",India
+C02F47F0ML85,In-use,Laptop,Apple,Z0Y6000SH,Macbook Pro Intel 13 Inch,Mac OS,C02F47F0ML85,,2021-02-11,,Out of Warranty,P0038,manjunatha.n@josys.com,2022-12-01,,Yes,Seccom,No,Used,Gubbi,"",India
+C02F31XMML85,Available,Laptop,Apple,Z0Y6000SH,MacBook Pro,MAC OS,C02F31XMML85,,2021-02-24,,Intel Chip performance issues,,,,,Yes,Seccom,No,Used,Office Stock,"",India
+C02F31XLML85,In-use,Laptop,Apple,Z0Y6000SH,Macbook Pro Intel 13 Inch,MAC OS,C02F31XLML85,,2021-02-17,,,P0118,shashwat.pandey@josys.com,2025-06-30,,Yes,Seccom,"","",Office Stock,"",India
+C02F11CYML85,Available,Laptop,Apple,Z0Y6000SH,Macbook Pro Intel 13,MAC OS,C02F11CYML85,,2021-02-15,,,,,,,Yes,Seccom,"","",Office Stock,"",India
+C02F12RXML85,Available,Laptop,Apple,Z0Y6000SH,Macbook Pro Intel 13 Inch,MAC OS,C02F12RXML85,,2021-04-05,,,,,,,Yes,Seccom,No,Used,Office Stock,"",India
+FVFF71L7Q05P,In-use,Laptop,Apple,Z11C0007L,macbook pro,MAC OS,FVFF71L7Q05P,,2022-02-21,,,P0111,megha.r@josys.com,2025-04-04,,Yes,Seccom,"","",Office Stock,"",India
+M5Q1627LPG,Available,Laptop,Apple,Macbook Pro 16 Inch,Macbook Pro 16 Inch,Mac OS,M5Q1627LPG,,2021-12-01,,Apple care purchased,,,,,Yes,Brilyant,"","",Bangalore,"",India
+C02F37LLMD6R,Available,Laptop,Apple,Macbook Pro 16 Inch,Macbook Pro 16 Inch,MAC OS,C02F37LLMD6R,,,,Apple care purchased,,,,,Yes,Brilyant,Not Applicable,Used,Office Stock,"",India
+C02FC1ZAML85,In-use,Laptop,Apple,MacBook Pro 13 Inch Intel,Macbook Pro,Mac OS,C02FC1ZAML85,,2021-03-26,,Apple care purchased,P0015,priyesh.thankachan@josys.com,2022-03-31,,Yes,Brilyant,"","",Bangalore,"",India
+C02FC22KML85,In-use,Laptop,Apple,MacBook Pro 13 Inch Intel,Macbook Pro Intel 13 Inch,MAC OS,C02FC22KML85,,2021-03-26,,Apple care purchased,I0014,ayush.shrivastav@josys.com,2025-06-02,,Yes,Brilyant,"","",Office Stock,"",India
+C02FC2QXML85,Available,Laptop,Apple,MacBook Pro 13 Inch Intel,Macbook pro,MAC OS,C02FC2QXML85,,2021-12-01,,Apple care Expires on Jan 31st 2025,,,,,Yes,Seccom,Yes,Used,Office Stock,"",India
+009NTYTQ5338,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTYTQ5338,,2022-02-18,2025-02-15,,P0028,aby.pappa@josys.com,2022-08-16,,Not Applicable,Brilyant,"","",Bangalore,"",India
+009NTABQ5328,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTABQ5328,,2021-03-26,2025-04-14,,P0044,manickam.subramanian@josys.com,2023-07-07,,Not Applicable,Seccom,Not Applicable,Used,Bangalore,"",India
+009NTNHQ5327,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTNHQ5327,,2021-03-26,2025-03-07,,P0016,swathi.kolamala@josys.com,2022-04-06,,Not Applicable,Brilyant,"","",Bangalore Rural,"",India
+009NTRLQ5334,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTRLQ5334,,2021-12-01,2025-03-06,,,office.management@josys.com,2025-03-31,,Not Applicable,Brilyant,"","",Bangalore,"",India
+010NTUWD1510,In-use,Monitor,LG,LG 27UL850 W,LG monitor,,010NTUWD1510,,2021-12-01,2025-01-10,,P0040,vimal.kumar@josys.com,2023-02-03,,Not Applicable,Brilyant,"","",Bangalore,"",India
+009NTEP1Q412,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTEP1Q412,,2020-12-11,2023-01-01,,,office.management@josys.com,2025-04-01,,Not Applicable,Seccom,"","",Bahadurgarh,"",India
+009NTBK1Q397,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTBK1Q397,,2020-11-17,2025-04-13,,P0002,abhijith.s@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Bangalore,"",India
+009NTFA1Q395,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTFA1Q395,,2021-12-31,2024-01-24,,P0019,sai.balaji@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Andhra Pradesh,"",India
+009NTCZ1Q403,In-use,Monitor,LG,LG 27UL850 W,LG.Monitor,,009NTCZ1Q403,,2020-08-12,2025-04-30,,,office.management@josys.com,2024-05-09,,Not Applicable,Seccom,Not Applicable,Used,Bangalore,"",India
+009NTTQ1Q409,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTTQ1Q409,,2020-07-11,2025-03-05,,P0047,pranav.moktali@josys.com,2023-08-11,,Not Applicable,Seccom,Not Applicable,Used,Bangalore,"",India
+009NTCZQ5339,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTCZQ5339,,2021-01-22,2025-05-14,,,office.management@josys.com,2025-01-06,,Not Applicable,Seccom,"","",Haryana,"",India
+009NTPCQ5336,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTPCQ5336,,2021-12-31,2025-03-08,,P0020,pooja.kumari@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Patna,"",India
+009NTBKQ5333,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTBKQ5333,,2021-02-17,2025-04-30,,P0009,nidhi.jain@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Bangalore,"",India
+009NTWGQ5281,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTWGQ5281,,2021-02-15,2025-02-14,,P0007,vipul.kumar@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Bangalore,"",India
+009NTZNQ5317,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTZNQ5317,,,2025-02-13,,P0011,nilesh.sharma@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Indor,"",India
+009NTKFQ5325,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTKFQ5325,,2021-04-05,2025-03-13,,P0012,ashish.agrawal@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Bangalore,"",India
+009NTVSQ5311,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTVSQ5311,,2021-06-24,2025-02-01,,P0015,priyesh.thankachan@josys.com,2022-04-06,,Not Applicable,Seccom,"","",Bangalore,"",India
+009NTLEQ5320,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,009NTLEQ5320,,2021-08-02,2025-03-14,,P0024,rajashekhar.dolli@josys.com,2022-05-25,,Not Applicable,Seccom,"","",Bangalore,"",India
+1FT0F4,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Headphone,,IFT0F4,,2020-12-11,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+1FT0HY,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Headphone,,IFT0HY,,2020-11-17,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+1FT0H6,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,1FT0H6,,2021-12-31,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+1FT0EW,Decommissioned,Headset,Plantronics,Head Set,Plantromics - Headphone,,1FT0EW,,2021-08-01,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+1PDRJC,Decommissioned,Headset,Plantronics,Head Set,Plantromics - Headphone,,039CB1,,2021-01-22,2023-01-13,,,,,,"","","","","","",India
+1PDRH4,Decommissioned,Headset,Plantronics,Head Set,Plantromics - Head Set,,1PDRH4,,2021-12-31,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+1PDRBU,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,1PDRBU,,2008-02-21,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+1PDRJ9,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,1PDRJ9,,2021-02-17,2024-03-25,,,,,,Yes,Seccom,"","","","",India
+1PDRJD,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,1PDRJD,,2021-02-15,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+1PDRF7,Decommissioned,Headset,Plantronics,Head Set,Plantronics Blackwire C5220 Headset,,1PDRF7,,2021-02-24,2022-12-25,,,,,,Not Applicable,Seccom,"","","","",India
+1PDRDB,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,1PDRDB,,2021-04-05,2024-03-25,,,,,,Not Applicable,Seccom,"","","","",India
+207586201,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,207586201,,2022-04-12,2022-09-30,,,,,,"","","","","","",India
+F9WJM1,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,F9WJM1,,2022-05-06,2024-03-25,,,,,,Not Applicable,Brilyant,"","","","",India
+F9WJM5,Decommissioned,Headset,Plantronics,Head Set,Plantronics - Head Set,,F9WJM5,,2021-12-01,2024-03-25,,,,,,Not Applicable,Brilyant,"","","","",India
+510 MS,In-use,Jabra Speaker,Jabra,Speakerphones,Jabra Speaker 510 MS,,Jabra Speaker 510 MS,,2021-05-19,,,,office.management@josys.com,2025-03-31,,No,Not Set,Not Applicable,Used,Bangalore,"",India
+510 UC,In-use,Jabra Speak 510 UC,Jabra Speak 510 UC,Speakerphones,,,510 UC,,2021-06-30,,,,office.management@josys.com,2025-01-07,,"","","","",Office Stock,"",India
+DNGP4B3,Available,Laptop,DELL,Dell 3420,Dell 3420 Model,Windows OS,DNGP4B3,,,,Need to Verify Serial Number,,,,,Not Applicable,Brilyant,Not Applicable,Used,Office Stock,"",India
+PF30BC2M,Available,Laptop,Lenovo,Lenovo,Lenovo,Windows OS,SPF30BC2M,,2021-08-27,,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Office Stock,"",India
+PF30C12Q,Available,Laptop,Lenovo,Lenovo,Lenovo,Windows OS,SPF30C12Q,,2021-08-27,,,,,,,Not Applicable,Seccom,Not Applicable,Used,Office Stock,"",India
+PF30EMNK,Available,Laptop,Lenovo,Lenovo,Lenovo,Windows OS,SPF30EMNK,,2022-01-20,,,,,,,Not Applicable,Seccom,Not Applicable,Used,Office Stock,"",India
+C02YN3N2JHD2,In-use,Laptop,Apple,,,Mac OS,C02YN3N2JHD2,,,,"This laptop was given to the user from the Japanese side, and this laptop will be returned to Japan, For our reference, we have updated the Josys tracker because the laptop is used in India",P0010,t.fujita@josys.com,2022-05-23,,Yes,Brilyant,"","",Pune,"",India
+FVFHG0UQQ05N,In-use,Laptop,Apple,Macbook Pro M1 13 Inch,MACBOOK PRO 13 INCH,Mac OS,Z11B0008W,,,,,P0025,sunitha.mani@josys.com,2022-05-24,,Yes,Seccom,"","",Bangalore,"",India
+F9WJM0,Decommissioned,Headset,Plantronics,,Plantronics - Head Set,,F9WJM0,,,2024-03-25,,,,,,"","","","","","",India
+C02FC22XML85,Available,Laptop,Apple,MacBook Pro 13 Inch Intel,MacBook Pro 13 inch 2020,,C02FC22XML85,,2022-04-25,,Apple care purchased,,,,,Yes,Brilyant,Yes,Used,Office Stock,"",India
+202NTDV8V890,In-use,Monitor,LG,,LG Monitor 4K (27UL850),,202NTDV8V890,,2022-04-25,,,P0023,ashish.virde@josys.com,2022-05-24,,Not Applicable,Brilyant,"","",Indor,"",India
+PF30A61J,Available,Laptop,Lenovo,Lenovo,ideapad slim 3,Windows OS,PF30A61J,,2022-05-09,,,,,,,Not Applicable,Seccom,Not Applicable,Used,Office Stock,"",India
+229290345,Decommissioned,Headset,Jabra,,Jabra,,229290345,,,2024-02-23,,,,,,"","","","","","",India
+FVFF73ZBQ05P,In-use,Laptop,Apple,,MacBook Pro 13 inch M1 2020,Mac OS,FVFF73ZBQ05P,,2022-04-24,,,P0024,rajashekhar.dolli@josys.com,2022-05-25,,Yes,Seccom,"","",Bangalore,"",India
+P9Q75962LQ,Decommissioned,Tablet,Apple,,iPad,Mac OS,P9Q75962LQ,,2022-06-22,2025-04-02,"Priyesh 4:26 PM April 2025
+@Satish M
+These apple tabs were given out as rewards to the 6 people by Yasu in 2022 offsite in Bangalore. So these should not be tagged to them. We should untag them from the employees.",,,,,Yes,"","","",Bangalore Rural,"",India
+HY6J4M4X69,Decommissioned,Tablet,Apple,,Ipad Air,Mac OS,HY6J4M4X69,,2022-06-22,2025-04-02,"Priyesh 4:26 PM April 2025
+@Satish M
+These apple tabs were given out as rewards to the 6 people by Yasu in 2022 offsite in Bangalore. So these should not be tagged to them. We should untag them from the employees.",,,,,Yes,"","","",Bangalore,"",India
+P7NDH7V5HD,Decommissioned,Tablet,Apple,,IPAD AIR 5th Gen,Mac OS,P7NDH7V5HD,,2022-06-22,2025-04-02,"Priyesh 4:26 PM April 2025
+@Satish M
+These apple tabs were given out as rewards to the 6 people by Yasu in 2022 offsite in Bangalore. So these should not be tagged to them. We should untag them from the employees.",,,,,Yes,"","","",Bangalore,"",India
+C2JL04JC39,Decommissioned,Tablet,Apple,,IPAD AIR,Mac OS,C2JL04JC39,,2022-06-22,2025-04-02,"Priyesh 4:26 PM April 2025
+@Satish M
+These apple tabs were given out as rewards to the 6 people by Yasu in 2022 offsite in Bangalore. So these should not be tagged to them. We should untag them from the employees.",,,,,Yes,"","","",Indor,"",India
+MM9P3HN/A,Decommissioned,Tablet,Apple,,IPad Air (5th Generation),Mac OS,NW747N7J33,,2022-06-22,2025-04-02,"Priyesh 4:26 PM April 2025
+@Satish M
+These apple tabs were given out as rewards to the 6 people by Yasu in 2022 offsite in Bangalore. So these should not be tagged to them. We should untag them from the employees.",,,,,Yes,"","","",Bangalore,"",India
+CNCRQ451L2,In-use,Printer,HP,HP Color LaserJet Pro MFP M479fdw,HP Color LaserJet Pro M478f-9f [67C2B3],NA,CNCRQ451L2,,2022-07-31,,,,office.management@josys.com,2025-05-05,,"","","","",Bangalore,"",India
+F8DH3N,Decommissioned,Headset,Plantronics,F8DH3N,,,F8DH3N,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,Used,"","",India
+FVFGX1GRQ05P,In-use,Laptop,Apple,Macbook Pro M1 13 Inch,,Mac OS,FVFGX1GRQ05P,,,,,P0028,aby.pappa@josys.com,2022-08-16,,Yes,Brilyant,"","",Bangalore,"",India
+FVFGW1F6Q05P,In-use,Laptop,Apple,Macbook Pro M1 13 Inch,,Mac OS,FVFGW1F6Q05P,,,,,P0043,avinash.anshu@josys.com,2023-06-01,,Yes,Brilyant,No,Used,Bihar,"",India
+FVFGW0HXQ05P,In-use,Laptop,Apple,Macbook Pro M1 13 Inch,,Mac OS,FVFGW0HXQ05P,,,,,P0011,nilesh.sharma@josys.com,2023-03-06,,Yes,Brilyant,Yes,Used,Indor,"",India
+C02FC1YWML85,Available,Laptop,Apple,Mac book Pro 13 inch Intel chip,,Mac OS,C02FC1YWML85,,,,Apple care purchased,,,,,Yes,Brilyant,"","",Bangalore,"",India
+202NTPC8V880,In-use,Monitor,LG,,,NA,202NTPC8V880,,,,,P0030,kiran.babu@josys.com,2022-10-17,,Not Applicable,Brilyant,"","",Hyderabad,"",India
+202NTGY8V887,In-use,Monitor,LG,,,NA,202NTGY8V887,,,,,P0046,sowmya.gs@josys.com,2023-08-18,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+202NTUW8V918,In-use,Monitor,LG,,,NA,202NTUW8V918,,,,,,office.management@josys.com,2025-01-22,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+202NTPC8V904,In-use,Monitor,LG,,,NA,202NTPC8V904,,,,,,office.management@josys.com,2025-02-25,,Not Applicable,Brilyant,"","",Bombay,"",India
+72P1KG3,In-use,Laptop,DELL,Dell 3420,Lenovo,Windows OS,72P1KG3,,,,,,office.management@josys.com,2024-12-18,,Not Applicable,Seccom,Not Applicable,Used,Office Stock,"",India
+FVFHD1R1Q05N,In-use,Laptop,Apple,Macbook Pro M1 13 Inch,,Mac OS,FVFHD1R1Q05N,,,,,I0008,Raju.Tukadiya@josys.com,2025-07-29,,Need to Confirm,Seccom,Not Applicable,New,Office Stock,"",India
+C02F9536Q6LR,In-use,Laptop,Apple,Macbook Air,,Mac OS,C02F9536Q6LR,,2021-03-12,2024-04-29,,P0015,priyesh.thankachan@josys.com,2023-02-06,,No,Seccom,No,Used,"","",India
+FVFHG0U1Q05N,In-use,Laptop,Apple,Macbook Pro M1 13 Inch,,Mac OS,FVFHG0U1Q05N,,,,,P0030,kiran.babu@josys.com,2022-10-17,,Yes,Seccom,"","",Hyderabad,"",India
+C02F96XNQ6LR,Available,Laptop,Apple,Mac Book Air,,Mac,C02F96XNQ6LR,,,2022-08-19,In Possession of Sanjay,,,,,No,Seccom,"","","","",India
+H3ZCGG3,Available,Laptop,DELL,Dell 3420,Dell 3420,Windows OS,H3ZCGG3,,,,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Office Stock,"",India
+510DGG3,Available,Laptop,DELL,Dell 3420,Dell 3420,Windows OS,510DGG3,,,,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+24ZCGG3,Available,Laptop,DELL,Dell 3420,Dell 3420,Windows OS,24ZCGG3,,2023-01-11,2024-08-31,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Office Stock,"",India
+F8DH40,Decommissioned,Headset,Plantronics,,,,,,2022-08-16,2024-03-25,,,,,,Not Applicable,Brilyant,"","","","",India
+F8DH3X,Decommissioned,Headset,Plantronics,,,,F8DH3X,,2022-08-23,2024-03-25,,,,,,Not Applicable,Brilyant,"","","","",India
+Sandisk 16GB,In-use,Pendrive,Sandisk,,,,Sandisk 16 GB,,,,Is with Satish from Briliyant,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,"","",Bangalore,"",India
+Sandisk,In-use,Pendrive,Sandisk,,,,Sandisk 16GB,,,,Is with Satish from Briliyant,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+Sandisk 32GB,In-use,Pendrive,Sandisk,,,,Sandisk 32 GB,,,,Is with Satish from Briliyant,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,"","",Bangalore,"",India
+Sandisk 64GB,In-use,Pendrive,Sandisk,,,,Sandisk 64GB,,,,Is with Satish from Briliyant,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+5T04BG3,Available,Laptop,DELL,Dell 3420,Dell 3420,Windows OS,5T04BG3,,2022-09-01,,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Office Stock,"",India
+F8DH3P,Decommissioned,Headset,Plantronics,BLACKWIRE 5220,,NA,F8DH3P,,,2024-03-25,,,,,,Not Applicable,Brilyant,"","","","",India
+F8DH38,Decommissioned,Head Set,Plantronics,BLACKWIRE 5220,Plantronics,NA,F8DH38,,,2025-02-07,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+F9WFMG,Decommissioned,Headset,Plantronics,BLACKWIRE 5220,,,F9WFMG,,,2024-03-25,,,,,,Not Applicable,Brilyant,"","","","",India
+FVFH23F2Q05N,Available,Laptop,Apple,Macbook Pro M1 13 Inch,,Mac OS,FVFH23F2Q05N,,,,,,,,,Yes,Brilyant,"","",Andhra Pradesh,"",India
+204NTHMAS401,In-use,Monitor,LG,27 Inch MONITOR,,NA,204NTHMAS401,,,,,P0038,manjunatha.n@josys.com,2022-12-01,,Not Applicable,Brilyant,"","",Gubbi,"",India
+205NTQD49900,In-use,Monitor,LG,27 Inch MONITOR,,NA,205NTQD49900,,,,,P0035,manvendra.singh@josys.com,2022-12-06,,Not Applicable,Brilyant,"","",Faridabad,"",India
+205NTVS49895,In-use,Monitor,LG,27 Inch MONITOR,,NA,205NTVS49895,,,,,P0036,shovan.dhara@josys.com,2022-12-12,,Not Applicable,Brilyant,"","",Bangalore,"",India
+205NTEP49740,In-use,Monitor,LG,27 Inch MONITOR,,NA,205NTEP49740,,,,,P0037,darshan.nagaraj@josys.com,2022-12-12,,Not Applicable,Brilyant,"","",Bangalore,"",India
+X1R44NX3T7,Decommissioned,Tablet,Apple,MM9L3HN/A,iPad Air,Mac OS,X1R44NX3T7,,2022-06-22,2025-04-02,"Priyesh 4:26 PM April 2025
+@Satish M
+These apple tabs were given out as rewards to the 6 people by Yasu in 2022 offsite in Bangalore. So these should not be tagged to them. We should untag them from the employees.",,,,,Yes,Not Set,Not Applicable,New,Bangalore,"",India
+1PDRGC,Decommissioned,Headset,Plantronics,,Headset,NA,1PDRGC,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,"","","",India
+2G8NSL3,Available,Laptop,DELL,Dell 3420,Dell Laptop,Windows OS,2G8NSL3,,,,For Office Use,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+206NTXR6A514,In-use,Monitor,LG,LG 27UL850 W,,NA,206NTXR6A514,,,,,P0039,kartik.bhandari@josys.com,2022-12-19,,Not Applicable,Brilyant,Not Applicable,"",Gurgaon,"",India
+206NTQD6A524,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,NA,206NTQD6A524,,,,,P0052,Lekha.badarinath@josys.com,2023-09-07,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+205NTZN49805,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,NA,205NTZN49805,,,,,,office.management@josys.com,2025-05-19,,Not Applicable,Brilyant,Not Applicable,"",Chennai,"",India
+206NTMX6A531,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,NA,206NTMX6A531,,,,,,office.management@josys.com,2025-03-13,,Not Applicable,Brilyant,Not Applicable,"",Bangalore,"",India
+K22V9TXM5J,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,MacBook Pro M2 13 Inch,Mac OS,K22V9TXM5J,,2022-10-28,,Warranty till - 19-Aug-2023,C0226,aparnna.unnikrishnan@josys.com,2025-04-16,,Yes,Brilyant,Yes,New,Bombay,"",India
+MD410VWWDQ,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,MacBook Pro M2 13 Inch,Mac OS,MD410VWWDQ,,2022-10-28,,Warranty till -19-Aug-2023,P0039,kartik.bhandari@josys.com,2022-12-19,,Yes,Brilyant,Yes,New,Gurgaon,"",India
+KRR2VX61Y2,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,MacBook Pro M2 13 Inch,Mac OS,KRR2VX61Y2,,2022-10-28,,Warranty till - 19-Aug- 2023,P0036,shovan.dhara@josys.com,2022-12-12,,Yes,Brilyant,Yes,New,Bangalore,"",India
+274589953,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274589953,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,New,"","",India
+274590552,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274590552,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,New,"","",India
+274589676,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274589676,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,New,"","",India
+274589955,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274589955,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,New,"","",India
+274590158,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274590158,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,New,"","",India
+274589591,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274589591,,,2024-03-25,,,,,,Not Applicable,Not Set,Not Applicable,New,"","",India
+274589601,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274589601,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,New,"","",India
+274590146,Decommissioned,Headset,Jabra,JABRA EVOLVE 30 II STEREO,,,274590146,,,2024-03-25,,,,,,Not Applicable,Brilyant,Not Applicable,New,"","",India
+YDVJX9Y4KW,In-use,Laptop,Apple,Macbook Pro 16 Inch,,Mac OS,YDVJX9Y4KW,,2023-01-16,,This laptop is used by MB,JM0001,mahabaleshwar.bhat@josys.com,2023-05-02,,Yes,Brilyant,Yes,New,US,"",India
+Q4V54WW9T4,In-use,Laptop,Apple,Macbook Pro 16 Inch M1 Chip,Macbook Pro 16 inch M1 Chip,Mac OS,Q4V54WW9T4,,2023-01-16,,,P0035,manvendra.singh@josys.com,2023-01-25,,Yes,Brilyant,Yes,New,Faridabad,"",India
+R565YG21Y4,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,MacBook Pro M2 13 Inch,Mac OS,R565YG21Y4,,2023-01-19,,,P0119,ayush.mathpal@josys.com,2025-07-01,,Yes,Brilyant,Yes,New,Chennai,"",India
+YXXLFDY0R0,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,YXXLFDY0R0,,2023-01-19,,,P0012,ashish.agrawal@josys.com,2023-05-03,,Yes,Brilyant,Yes,New,Bangalore,"",India
+YPMY9WR64R,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,MacBook Pro M2 13 Inch,Mac OS,YPMY9WR64R,,2023-01-19,,,P0002,abhijith.s@josys.com,2023-03-24,,Yes,Brilyant,Yes,New,Bangalore,"",India
+YXT7HH72CP,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,YXT7HH72CP,,2023-01-19,,,P0044,manickam.subramanian@josys.com,2023-07-07,,Yes,Brilyant,Yes,New,Bangalore,"",India
+Q4639XT4JW,In-use,Laptop,Apple,Mac Pro M2,Mac Pro M2,Mac OS,Q4639XT4JW,,2023-01-19,,,C0225,rohit.duggal@josys.com,2025-04-08,,Yes,Brilyant,Yes,New,Bangalore,"",India
+205NTYTFQ482,In-use,Monitor,LG,,,NA,205NTYTFQ482,,2023-04-07,,,,office.management@josys.com,2025-05-05,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+205NTJJFQ476,In-use,Monitor 32 Inch,LG,,,,205NTJJFQ476,,2023-04-07,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+205NTQDFQ484,In-use,Monitor 32 Inch,LG,,,,205NTQDFQ484,,2023-04-07,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+205NTCZFQ483,In-use,Monitor 32 Inch,LG,,,,205NTCZFQ483,,2023-04-07,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+205NTRLFQ598,In-use,Monitor,LG,,,,205NTRLFQ598,,2023-04-07,,,,office.management@josys.com,2025-05-05,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+205NTABFQ496,In-use,Monitor 32 Inch,LG,,,,205NTABFQ496,,2023-04-07,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+WHFW6HXJ5Q,In-use,Laptop,Apple,Mac book 13 inch,M2 Chip,Mac OS,WHFW6HXJ5Q,,2023-05-12,,,P0010,t.fujita@josys.com,2023-07-11,,Yes,Brilyant,Yes,New,Bangalore,"",India
+WY9H6DXWMF,In-use,Laptop,Apple,Mac book 13 inch,M2 Chip,Mac OS,WY9H6DXWMF,,2023-05-12,,,P0048,kirti.sapra+josysForJosys@josys.com,2023-08-14,,Yes,Brilyant,Yes,New,Yamuna Nagar,"",India
+YY4JXX4YRQ,In-use,Laptop,Apple,Mac book 13 inch,M2 Chip,Mac OS,YY4JXX4YRQ,,2023-05-12,,,P0047,pranav.moktali@josys.com,2023-08-11,,Yes,Brilyant,Yes,New,bangalore,"",India
+MG7H23VLK7,In-use,Laptop,Apple,Mac book 13 inch,M2 Chip,Mac OS,MG7H23VLK7,,,,,P0045,puneet.agarwal@josys.com,2023-07-27,,Yes,Brilyant,Yes,New,bangalore,"",India
+Jabra 275,In-use,Jabra Speaker,Jabra,,Jabra Speaker,,Jabra Speaker,,,,,,office.management@josys.com,2025-05-05,,Not Applicable,Brilyant,Not Applicable,New,bangalore,"",India
+V94PK9RCWP,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,,V94PK9RCWP,,2023-07-28,,,P0110,manoj.t@josys.com,2025-03-28,,Not Applicable,Brilyant,Yes,New,Office Stock,"",India
+QX9WKKPH4T,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,QX9WKKPH4T,,2023-07-28,,,P0050,saurabh.kumar@josys.com,2023-09-07,,Yes,Brilyant,Yes,New,Bangalore,"",India
+JLY574JFGK,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,JLY574JFGK,,2023-07-28,,,P0023,ashish.virde@josys.com,2023-09-09,,Yes,Brilyant,Yes,New,Indor,"",India
+JDF79NM766,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,JDF79NM766,,2023-07-28,,,P0056,Kamesh.palani@josys.com,2023-09-28,,Yes,Brilyant,Yes,New,Bangalore,"",India
+FH24GF2RVM,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,FH24GF2RVM,,2023-07-28,,,P0052,Lekha.badarinath@josys.com,2023-09-07,,Yes,Brilyant,Yes,New,Bangalore,"",India
+304NTFA0K499,In-use,Monitor,LG,27UP850N,LG 4K UHD Monitor,,304NTFA0K499,,2023-07-28,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+302NTKFCD077,In-use,Monitor,LG,27UP850N,LG 4K UHD Monitor,,302NTKFCD077,,2023-07-28,,,P0056,Kamesh.palani@josys.com,2023-10-13,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+302NTABCD032,In-use,Monitor,LG,27UP850N,LG 4K UHD Monitor,,302NTABCD032,,2023-07-28,,,P0050,saurabh.kumar@josys.com,2023-09-12,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+304NTRL0K502,In-use,Monitor,LG,27UP850N,LG 4K UHD Monitor,,304NTRL0K502,,2023-07-28,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+304NTXR0K498,In-use,Monitor,LG,27UP850N,LG 4K UHD Monitor,,304NTXR0K498,,2023-07-28,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+7124260,In-use,TV,Sony,KD-43X75K,Sony 43 Inch,,7124260,,,2025-03-22,Area 24,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+7052345,In-use,TV,Sony,KD-50X75K,Sony 50 Inch,,7052345,,2023-06-07,2025-03-21,Area 24,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+7011285,In-use,TV,Sony,KD-75X80K,Sony 75 Inch,,7011285,,,2025-03-17,Area 24,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS,In-use,CCTV Camera,CP-PLUS,,,,CP-PLUS,,,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+CP-PLUS1,In-use,CCTV Camera,CP-PLUS,,,,CP-PLUS,,,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+CP-PLUS2,In-use,CCTV Camera,CP-PLUS,,,,CP-PLUS,,,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+CP-PLUS3,In-use,CCTV Camera,CP-PLUS,,,,CP-PLUS,,,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+CP-PLUS4,In-use,CCTV Camera,CP-PLUS,,,,CP-PLUS,,,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+CP-PLUS5,In-use,CCTV Camera,CP-PLUS,,,,CP-PLUS,,,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+CNCRQD905C,In-use,Printer,HP,HP Color LaserJet Pro M478f-9f [67C2B3],HP Color LaserJet Pro MFP M479fdw,NA,CNCRQD905C,,2023-06-13,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+73767029,In-use,Speaker,Jabra,PHS060W,Jabra Speak 275,,,,2023-08-11,2025-04-16,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+73767043,In-use,Speaker,Jabra,PHS060W,Jabra Speaker,,73767043,,2023-08-11,2025-04-18,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+73767000,In-use,Speakar,Jabra,PHS060W,Jabra Speaker,,,,2023-08-11,2025-03-23,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+SYGHQLW29Q2,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SYGHQLW29Q2,,2023-08-31,,,P0063,ravi.sagiraju@josys.com,2023-11-07,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SNHNQM7692G,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SNHNQM7692G,,2023-08-31,,,P0065,milind.jamakhandi@josys.com,2023-11-21,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SXT6R6VPJV7,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SXT6R6VPJV7,,2023-08-31,,,P0121,pranjal.srivastava@josys.com,2025-07-11,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SXQ356CLQWR,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SXQ356CLQWR,,2023-08-31,,,P0066,sruthi.soma@josys.com,2023-11-28,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SXQJ2G402JQ,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SXQJ2G402JQ,,2023-08-31,,,P0068,prateek.kumar@josys.com,2024-01-16,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SH4PW2D0WHH,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SH4PW2D0WHH,,2023-08-31,,,P0060,sai.vannati@josys.com,2023-10-27,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SL37LFYKD29,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SL37LFYKD29,,2023-08-31,,,P0061,md.hossain@josys.com,2023-11-06,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SJDGTC94JLW,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SJDGTC94JLW,,2023-08-31,,,P0059,pallav.kumar@josys.com,2023-10-27,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SHDWK630R7M,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SHDWK630R7M,,2023-08-31,,,P0058,karthik.devaraj@josys.com,2023-10-27,,Yes,Brilyant,Yes,New,Bangalore,"",India
+SKM4JCFGQYD,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,SKM4JCFGQYD,,2023-08-31,,,P0105,aditi.namdev@josys.com,2025-01-29,,Yes,Brilyant,Yes,New,Bangalore,"",India
+HH2QFM2G2D,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,HH2QFM2G2D,,2023-09-25,,,I0007,Nikhil.jose@josys.com,2025-06-25,,Yes,Brilyant,Yes,New,Bangalore,"",India
+TWDLW4XP7W,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,TWDLW4XP7W,,2023-09-25,,,P0069,amit.mitra@josys.com,2024-01-23,,Yes,Brilyant,Yes,New,Bangalore,"",India
+HPVW30H4G4,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,HPVW30H4G4,,2023-09-25,,,P0064,lakshmaiah.peruri@josys.com,2023-11-09,,Yes,Brilyant,Yes,New,Bangalore,"",India
+HKL96WCXQ6,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,HKL96WCXQ6,,2023-09-25,,,P0054,amalraj.r@josys.com,2023-10-03,,Yes,Brilyant,Yes,New,Bangalore,"",India
+TX3J9059C1,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,TX3J9059C1,,2023-09-25,,,P0009,nidhi.jain@josys.com,2024-02-27,,Yes,Brilyant,Yes,New,Bangalore,"",India
+V6HTMGG220,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,V6HTMGG220,,2023-09-25,,,P0016,swathi.kolamala@josys.com,2024-04-05,,Yes,Brilyant,Yes,New,Bangalore Rural,"",India
+TFP6QXTL7V,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,TFP6QXTL7V,,2023-09-25,,,P0046,sowmya.gs@josys.com,2024-05-17,,Yes,Brilyant,Yes,New,Bangalore,"",India
+TQQN071FC4,In-use,Laptop,Apple,MacBook Pro M2 13 Inch,,Mac OS,TQQN071FC4,,2023-09-25,,,P0040,vimal.kumar@josys.com,2024-05-03,,Yes,Brilyant,Yes,New,Bangalore,"",India
+T3QGTCD264,In-use,Laptop,Apple,Mac book pro 14 Inch,,,T3QGTCD264,,2023-05-07,,,P0019,sai.balaji@josys.com,2025-05-12,,Not Applicable,Brilyant,Yes,New,Office Stock,"",India
+301NTXR38730,In-use,Monitor,LG,LG 27UL850 W,,,301NTXR38730,,2023-11-02,,Replacement monitor that was damaged while on trasit to Lekha,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+303NTUW4G582,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,303NTUW4G582,,2023-09-05,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+303NTBK4G589,In-use,Monitor,LG,LG 27UL850 W,LG monitor,,303NTBK4G589,,2023-09-05,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+303NTKF4G581,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,303NTKF4G581,,2023-09-05,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+303NTFA4G587,In-use,Monitor,LG,LG 27UL850 W,LG Monitor,,303NTFA4G587,,2023-09-05,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+303NTBK4G613,In-use,Monitor,LG,LG 27UL850 W,LG monitor,,303NTBK4G613,,2023-09-05,,,,office.management@josys.com,2024-04-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+Jabra Speaker,In-use,Jabra Speaker,Jabra SPEAK 510 MS,Jabra SPEAK 510 MS,Jabra SPEAK 510 MS,,Jabra SPEAK 510 MS,,2021-05-19,2024-04-30,,,office.management@josys.com,2024-04-30,,Not Applicable,Brilyant,Not Applicable,Used,"","",India
+Y0QVJXJGH3,In-use,Laptop,Apple,Mac Book Pro 16,MacBook Pro 16 inch M3 max chip,Mac Os,Y0QVJXJGH3,,2023-12-09,,,P0114,ankit.jain@josys.com,2025-05-02,,Need to Confirm,Brilyant,Yes,New,Office Stock,"",India
+JFHW7JK00Q,Available,Laptop,Apple,Mac Book Pro 16,MacBook Pro 16 inch M3 max chip,Mac OS,JFHW7JK00Q,,2023-12-09,,,,,,,Need to Confirm,Brilyant,Yes,New,Bangalore,"",India
+7000838,In-use,TV,Sony,KD-85X80L,Sony 85 Inch,,7000838,,2023-12-15,2025-03-14,Procured by Area 24,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+Fridge,In-use,Fridge,Leonard USA,,Leonard USA 2-door,,Fridge,,,,,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+M4CLX4RXXF,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,M4CLX4RXXF,,2024-03-23,,,P0089,logesh.c@josys.com,2024-11-21,,Yes,Brilyant,Yes,New,Bangalore,"",India
+DVF4G6T145,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,DVF4G6T145,,2024-03-23,,,P0007,vipul.kumar@josys.com,2024-04-15,,Yes,Brilyant,Yes,New,Bangalore,"",India
+C5P4JRQ43J,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,C5P4JRQ43J,,2024-03-23,,,P0070,aayush.saini@josys.com,2024-05-08,,Yes,Brilyant,Yes,New,Bangalore,"",India
+DJ6MG2W4K5,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,DJ6MG2W4K5,,2024-03-23,,,P0020,pooja.kumari@josys.com,2024-06-06,,Yes,Brilyant,Yes,New,Patna,"",India
+7002072,In-use,TV,Sony,KD 85X80L,Sony 85 Inch,,7002072,Area 24,2024-04-12,2025-03-16,Procured by Area 24,,office.management@josys.com,2024-04-12,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+7001885,In-use,TV,Sony,KD-85X80L,Sony 85 Inch,,7001885,Area 24,2024-04-16,2025-03-15,,,office.management@josys.com,2024-04-16,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+GVF4GV3C7T,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,GVF4GV3C7T,,2024-04-16,,,P0072,biswajit.pattanaik@josys.com,2024-06-17,,Yes,Brilyant,Yes,New,Bangalore,"",India
+GVHJN1416N,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,GVHJN1416N,,2024-04-16,,,P0112,shaik.shahul@josys.com,2025-04-28,,Yes,Brilyant,Yes,New,Bangalore,"",India
+H7QY5321Y9,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,H7QY5321Y9,,2024-04-16,,,P0074,umashankar.pm@josys.com,2024-07-01,,Yes,Brilyant,Yes,New,Bangalore,"",India
+D1Q679C221,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,D1Q679C221,,2024-04-16,,,P0076,pranay.boreddy@josys.com,2024-07-04,,Yes,Brilyant,Yes,New,Bangalore,"",India
+HTF4W7CL9Y,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,HTF4W7CL9Y,,2024-04-16,,,P0079,noushadali.ms@josys.com,2024-09-17,,Yes,Brilyant,Yes,New,Bangalore,"",India
+CP-PLUS6,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,No,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS7,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS8,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS9,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS10,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS11,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS12,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS13,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS14,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS15,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS16,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS17,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS18,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS19,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS20,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS21,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS22,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS23,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+Netgear ORBI,In-use,Netgear ORBI,Netgear ORBI,Netgear ORBI Tri Band Mesh WiFi 6 system,RBK853,,Netgear ORBI,,2023-06-26,,,,office.management@josys.com,2023-06-26,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS DVR,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-01,,,,office.management@josys.com,2024-04-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CP-PLUS DVR1,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+403NTGY4J903,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTGY4J903,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTSU4J902,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTSU4J902,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTTQ4J905,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTTQ4J905,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTLE4J904,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTLE4J904,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTEP4J908,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTEP4J908,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTYT4J898,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTYT4J898,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTQD4J900,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTQD4J900,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTKF4J909,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTKF4J909,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTCZ4J899,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTCZ4J899,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTWG4J913,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTWG4J913,,2024-05-08,,,,office.management@josys.com,2024-05-09,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTVS4J871,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTVS4J871,,2024-05-17,,,,office.management@josys.com,2024-08-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTPC4J872,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTPC4J872,,2024-05-17,,,,office.management@josys.com,2024-05-24,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTXR4J866,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTXR4J866,,2024-05-17,,,,office.management@josys.com,2024-05-24,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+403NTRL4J870,In-use,Monitor 32 Inch,LG,LG 32 Ergo UHD 4K IPS Display Monitor Model 32UN880 B,LG Monitor,,403NTRL4J870,,,,,,office.management@josys.com,2024-08-01,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+GCWH07GQHF,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,GCWH07GQHF,,2024-07-03,,,P0091,chandra.gupta@josys.com,2024-12-02,,Yes,Brilyant,Yes,New,Bangalore,"",India
+F95Q2GQ9KC,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,F95Q2GQ9KC,,2024-07-03,,,P0080,srinivas.r@josys.com,2024-09-23,,Yes,Brilyant,Yes,New,Bangalore,"",India
+FQW4W6L6D6,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,FQW4W6L6D6,,2024-07-03,,,P0081,praveen.chouhan@josys.com,2024-09-26,,Yes,Brilyant,Yes,New,Bangalore,"",India
+F0QK4F0KPH,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,F0QK4F0KPH,,2024-07-03,,,P0082,shivaprasad.manjunath@josys.com,2024-09-30,,Yes,Brilyant,Yes,New,Bangalore,"",India
+KMJ2X26P59,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,KMJ2X26P59,,2024-07-03,,,P0083,shobhit.rajvanshi@josys.com,2024-10-28,,Yes,Brilyant,Yes,New,Bangalore,"",India
+CP-PLUS DVR2,In-use,CCTV Camera,CP-PLUS,CP-PLUS,CP-PLUS,,CP-PLUS,,2024-04-29,,,,office.management@josys.com,2024-04-29,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+CV952CYL94,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,CV952CYL94,,2024-09-20,,,P0116,mandar.gondhalekar@josys.com,2025-06-16,,Need to Confirm,Brilyant,Yes,New,Bangalore,"",India
+K2C74LN2VC,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,K2C74LN2VC,,2024-09-20,,,P0120,kumar.shivam@josys.com,2025-07-02,,Yes,Brilyant,Yes,New,Bangalore,"",India
+MJGYW0WT6H,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,MJGYW0WT6H,,2024-09-20,,,P0085,dinesh.bhatheswar@josys.com,2024-11-04,,Yes,Brilyant,Yes,New,Bangalore,"",India
+CDJ7WNV6LX,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,CDJ7WNV6LX,,2024-09-20,,,P0087,arvind.ramasarma@josys.com,2024-11-11,,Yes,Brilyant,Yes,New,Bangalore,"",India
+D6JR9KF77M,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,D6JR9KF77M,,2024-09-20,,,P0088,shyam.vasudevan@josys.com,2024-11-13,,Yes,Brilyant,Yes,New,Bangalore,"",India
+GC7WWH24C4,Available,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,GC7WWH24C4,,2024-09-20,,,,,,,Yes,Brilyant,Yes,New,Bangalore,"",India
+L4YYXWNF2X,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,L4YYXWNF2X,,2024-09-20,,,P0094,vikram.rao@josys.com,2024-12-16,,Yes,Brilyant,Yes,New,Bangalore,"",India
+JQCYGX6YV9,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,JQCYGX6YV9,,2024-09-20,,,P0092,ashish.sharma@josys.com,2024-12-03,,Yes,Brilyant,Yes,New,Delhi,"",India
+HX470W39D9,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,HX470W39D9,,2024-09-20,,,P0122,eswar.naik@josys.com,2025-07-14,,Yes,Brilyant,Yes,New,Bangalore,"",India
+D6FTXVL6JG,In-use,Laptop,Apple,Macbook Pro 14 Inch M3 Chip,MacBook Pro 14 inch Apple M3 Pro chip,Mac OS,D6FTXVL6JG,,2024-09-20,,,P0095,prashanth.k@josys.com,2025-01-02,,Yes,Brilyant,Yes,New,Bangalore,"",India
+4NGP4B3,Available,Laptop,DELL,Dell 3420,Dell 3420 Model,Windows OS,4NGP4B3,,2022-02-23,,System performance issue - slowness reported,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+7NGP4B3,Available,Laptop,DELL,Dell 3420,Dell 3420 Model,Windows OS,7NGP4B3,,,,Used - Received from Kavya Intern,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+F2ZCGG3,In-use,Laptop,DELL,Dell 3420,Dell 3420 Model,Windows OS,F2ZCGG3,,,,,P0075,loganathan.at@josys.com,2024-07-01,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+F2P1KG3,Available,Laptop,DELL,Dell 3420,Dell 3420 Model,Windows OS,F2P1KG3,,2022-09-01,,Assignment history not found - Used,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+FH8NSL3,Available,Laptop,DELL,Dell 3420,Dell 3420 Model,Windows OS,FH8NSL3,,,,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+CQYCGG3,Available,Laptop,DELL,Dell 3420,Dell 3420 Model,Windows OS,CQYCGG3,,,,,,,,,Not Applicable,Brilyant,Not Applicable,Used,Bangalore,"",India
+Netgear ORBI satellite1,In-use,Netgear ORBI,Netgear ORBI,Netgear ORBI Tri Band Mesh WiFi 6 system,RBK853,,Netgear ORBI,,2023-06-26,,,,office.management@josys.com,2024-10-15,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+Netgear ORBI satellite3,In-use,Netgear ORBI,Netgear ORBI,RBK853,Netgear ORBI Tri Band Mesh WiFi 6 system,,Netgear ORBI,,2024-10-15,,,,office.management@josys.com,2024-10-15,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+M431FCY3FT,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,M431FCY3FT,,2024-11-14,,,,,,,Yes,Brilyant,Yes,New,Bangalore,"",India
+G2569G7QNY,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,G2569G7QNY,,2024-11-14,,,P0098,mitesh.jat@josys.com,2025-01-03,,Yes,Brilyant,Yes,New,Bangalore,"",India
+LG9MX12DRJ,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,LG9MX12DRJ,,2024-11-14,,,P0097,akshay.vetal@josys.com,2025-01-02,,Yes,Brilyant,Yes,New,Bangalore,"",India
+GF4XT0C9WH,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,GF4XT0C9WH,,2024-11-14,,,P0099,vikas.sahu@josys.com,2025-01-08,,Yes,Brilyant,Yes,New,Bangalore,"",India
+GD2QYYY9LJ,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,GD2QYYY9LJ,,2024-11-14,,,P0101,aditya.havaldar@josys.com,2025-01-13,,Yes,Brilyant,Yes,New,Bangalore,"",India
+JC9M09YWT2,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,JC9M09YWT2,,2024-11-14,,,P0100,aviral.malik@josys.com,2025-01-13,,Yes,Brilyant,Yes,New,Bangalore,"",India
+HKD9CTX05G,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,HKD9CTX05G,,2024-11-14,,,P0037,darshan.nagaraj@josys.com,2025-01-16,,Yes,Brilyant,Yes,New,Bangalore,"",India
+M3YX0G0GKM,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,M3YX0G0GKM,,2024-11-14,,,P0102,archit.kumar@josys.com,2025-01-13,,Yes,Brilyant,Yes,New,Bangalore,"",India
+MKT2KX20JN,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,MKT2KX20JN,,2024-11-14,,,P0113,deepa.reddy@josys.com,2025-04-28,,Yes,Brilyant,Yes,New,Bangalore,"",India
+MW90XX512T,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,MW90XX512T,,2024-11-14,,,P0104,samson.peter@josys.com,2025-01-20,,Yes,Brilyant,Yes,New,Bangalore,"",India
+PF53GMEZ,In-use,Laptop,Lenovo,Lenovo,Lenovo,Windows OS,PF53GMEZ,,2024-12-20,,,P0071,rohit.choraria@josys.com,2024-12-20,,Not Applicable,Brilyant,Not Applicable,New,Bangalore,"",India
+FT4T0DCLYV,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,FT4T0DCLYV,,2025-01-10,,,JM0003,brian.wehrle@josys.com,2025-01-30,,Yes,Brilyant,Yes,New,Spain,"",India
+F9QXVVM001,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,F9QXVVM001,,2025-01-10,,"The Mac laptop assigned to Richard was issued from India.
+However, it has now been confirmed that the laptop will not be recoverable from Richard.",,,,,Yes,Brilyant,Yes,New,US,"",India
+DQ34KQH4T6,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,DQ34KQH4T6,,2025-01-10,,,P0107,nandeesh.bharamagoudra@josys.com,2025-03-03,,Yes,Brilyant,Yes,New,Office Stock,"",India
+DFN93K0C69,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,DFN93K0C69,,2025-01-10,,,P0108,mahesh.g@josys.com,2025-03-05,,Need to Confirm,Brilyant,Yes,New,Office Stock,"",India
+D7KF6L07VH,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,D7KF6L07VH,,2025-01-10,,,P0115,krishna.chaitanya@josys.com,2025-05-08,,Need to Confirm,Brilyant,Yes,New,Office Stock,"",India
+D7QQ9HC4M7,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,D7QQ9HC4M7,,2025-01-10,,,P0106,agaluru.moulasab@josys.com,2025-02-13,,Need to Confirm,Brilyant,Yes,New,Office Stock,"",India
+FTHJWGK70Y,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,FTHJWGK70Y,US,2025-01-10,,Laptop purchased in US,P0055,harjeet.chhabada@josys.com,2025-06-13,,Yes,Not Set,Yes,New,US,"",India
+DF66THJQ7L,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,DF66THJQ7L,,2025-01-10,,,P0124,punnayan.saha@josys.com,2025-07-17,,Need to Confirm,Brilyant,Yes,New,Office Stock,"",India
+FV6WPCJ34T,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,FV6WPCJ34T,,2025-01-10,,,P0117,anshuman.mishra@josys.com,2025-06-16,,Yes,Brilyant,Yes,New,Office Stock,"",India
+F4HVF9KMJY,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,F4HVF9KMJY,,2025-01-10,,,P0053,Abir.nagia@josys.com,2025-01-28,,Yes,Brilyant,Yes,New,Bangalore,"",India
+Sandisk 32GB1,In-use,Pendrive,Sandisk,,,,Sandisk 32 GB,,2023-07-03,,,,office.management@josys.com,2023-07-03,,"",Brilyant,"","",Bangalore,"",India
+Sandisk 32GB2,In-use,Pendrive,Sandisk,,,,Sandisk 32 GB,,2023-07-03,,,,office.management@josys.com,2023-07-03,,"",Brilyant,"","",Bangalore,"",India
+0ATQHPBX400450,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX400450,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,No,Not Set,No,New,Bangalore,"",India
+0ATQHPBX500367,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX500367,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,No,Not Set,Not Applicable,New,Bangalore,"",India
+0ATQHPBX800169,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX800169,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0AT9HPBXA00388,In-use,TV,SAMSUNG,Samsung,Samsung 55 Inch,,0AT9HPBXA00388,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0AT9HPBX701634,In-use,TV,SAMSUNG,Samsung,Samsung 55 Inch,,0AT9HPBX701634,Qubix,2025-02-25,,,,office.management@josys.com,2025-03-01,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0ATQHPBX700082,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX700082,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0ATQHPBX700034,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX700034,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0ATQHPBX500373,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX500373,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0ATQHPBX800167,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX800167,Qubix,2025-02-25,,,,office.management@josys.com,2025-03-26,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0ATQHPBX700174,In-use,TV,SAMSUNG,Samsung,Samsung 65 Inch,,0ATQHPBX700174,Qubix,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+Fridge1,In-use,Fridge,SAMSUNG,Samsung,Samsung,,Fridge,Table Space,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+Fridge2,In-use,Fridge,SAMSUNG,Samsung,Samsung,,Fridge,Table Space,2025-02-25,,,,office.management@josys.com,2025-02-25,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+G6HCD97317,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,G6HCD97317,US,2025-02-28,,,,timothy.silva@josys.com,2025-03-03,,Yes,Not Set,No,New,US,"",India
+Netgear ORBI satellite2,In-use,Netgear ORBI,Netgear ORBI,Netgear ORBI Tri Band Mesh WiFi 6 system,RBK853,,Netgear ORBI,,2023-06-26,,,,office.management@josys.com,2025-05-07,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+0001,Unknown,Headset,Head Set,Head Set,Head Set,,0001,Credit Card,2023-06-15,,This asset detail was added erroneously to the Josys tracker.,,,,,Not Applicable,Not Set,Not Applicable,New,Bangalore,"",India
+FXGPGKH9C5,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,FXGPGKH9C5,,2025-03-26,,,P0123,aman.patel@josys.com,2025-07-17,,Need to Confirm,Brilyant,Yes,New,Bangalore,"",India
+M4WXPQMN69,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,M4WXPQMN69,,2025-03-26,,,P0125,arpit.verma@josys.com,2025-07-17,,Need to Confirm,Brilyant,Yes,New,Bangalore,"",India
+M7RMWL254R,In-use,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,M7RMWL254R,,2025-03-26,,,P0126,shivam.purohit@josys.com,2025-07-21,,Need to Confirm,Brilyant,Yes,New,Bangalore,"",India
+F04MVY3W2Q,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,F04MVY3W2Q,,2025-03-26,,,,,,,Need to Confirm,Brilyant,Yes,New,Bangalore,"",India
+HTM2K677K5,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,HTM2K677K5,,2025-03-26,,,,,,,Need to Confirm,Brilyant,Yes,New,Bangalore,"",India
+tk-mac-10009,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0CS1WG7,購入,2023-01-16,,,,yuk.kouno@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10008,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（US）,MAC OS,FVFJQ1TP1WG7,購入,2023-01-16,,,,k.kitamura@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10014,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0L51WG7,購入,2023-01-16,,,,t.sato@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10015,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ00H1WG7,購入,2023-01-16,,,,k.kimura@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10022,In-use,Laptop,Apple,A2779,MacBook Pro 14-inch（JIS）,MAC OS,F2WW933W5D,購入,2023-07-28,,,,y.odo@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10023,In-use,Laptop,Apple,A2779,MacBook Pro 14-inch（JIS）,MAC OS,GQR60XQ967,購入,2023-08-09,,,,t.furuyama@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10019,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFK52411WG7,購入,2023-05-23,,,,yu.yokoyama@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10011,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0LG1WG7,購入,2023-01-16,,,,n.otsu@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10021,In-use,Laptop,Apple,A2779,MacBook Pro 14-inch（JIS）,MAC OS,H92976M7PH,購入,2023-07-28,,,,s.shibuya@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10029,Available,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,WVC9W6CY9G,購入,2023-10-23,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10004,In-use,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,T46RWRFNR9,購入,2023-01-16,,,,m.saito@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10025,Unknown,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,DF947K2PWJ,購入,2023-09-01,,以前紛失しているPC（多分）,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10007,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0CV1WG7,購入,2023-01-16,,,,k.nakajima@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10001,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0KX1WG7,購入,2023-01-16,,,,h.kido@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10032,In-use,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,R50HW4YYVR,購入,2024-02-14,,,,t.katsuzawa@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10038,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,WRTHX0HTFD,購入,2024-03-26,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10041,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,JR23037PK2,購入,2024-03-27,,,,y.kosaka@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10037,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,Y37YDX3LTV,購入,2024-03-26,,,,t.kawabata@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10040,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,PKXV74CQ1X,購入,2024-03-26,,,,m.iwai@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10002,In-use,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,TGFKHK0XWQ,購入,2023-01-16,,,,j.yokote@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10049,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,C0MWL9V40G,購入,2024-04-26,,,,,,,Yes,too,No,Used,makuhari,"",Japan
+tk-mac-10050,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,L035DDWWNN,購入,2024-04-26,,,,y.aragane@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10052,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,QJ4JQHX163,購入,2024-04-26,,,,y.morigami@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10053,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,V92Q5FWX2F,購入,2024-04-26,,,,j.lee@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10055,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,V460RKWWKJ,購入,2024-04-26,,,,ka.sato@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10056,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,F9463C9VYJ,購入,2024-04-26,,,,n.matsubara@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10043,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,KY927RQ7Q4,購入,2024-04-26,,,,t.kakoi@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10044,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,YW0X13K216,購入,2024-04-26,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10065,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,J1C7PQJWNV,購入,2024-05-27,,,,t.noyori@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10067,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,GHFHNH3KQW,購入,2024-05-27,,,,e.hiramatsu@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10064,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,MD24P937MH,購入,2024-05-27,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10063,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,DGYHKV7L7F,購入,2024-05-27,,,,k.kitano@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10060,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,F0WXJMWNQG,購入,2024-05-27,,,,k.kawazoe@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10068,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,CP6YNW724H,購入,2024-08-27,,,,m.hirano@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10062,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,G4QK256WQK,購入,2024-05-27,,,,h.nishine@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10072,In-use,Laptop,Apple,A3113,MacBook Air 13.6-inch（JIS）,MAC OS,J6CTFV764W,購入,2024-09-24,,,,t.tanaka@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10083,In-use,Laptop,Apple,A2992,MacBook Pro 14-inch（JIS）,MAC OS,HHV9909GTK,購入,2024-10-16,,,,m.nakagawa@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10073,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,FPVXL39N97,購入,2024-10-16,,,,a.katono@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10069,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,J1YF7QHJWY,購入,2024-08-27,,,,o.revoltar@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10074,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,MK04W02QQK,購入,2024-10-16,,,,a.kagawa@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10075,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,FCNWCC9GHG,購入,2024-10-16,,,,k.kato@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10071,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,LR4M6W7VHQ,購入,2024-08-27,,,,t.goto@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10070,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,GPY7JP4LXQ,購入,2024-08-27,,,,m.sugimoto@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10079,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,JFXQ4HV9DM,購入,2024-10-16,,,,e.fujita@josys.com,2025-06-10,,Yes,too,No,Used,makuhari,"",Japan
+tk-mac-10057,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,J6C70QPWXG,購入,2024-04-26,,,,r.komuro@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10036,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,ML270QC6C2,購入,2024-03-18,,,,h.noguchi@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10084,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,F12X43KXNG,購入,2024-05-27,,,,k.shibutani@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10059,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,DQYY3W9MFC,購入,2024-05-27,,,,n.fujita@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10086,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（US）,MAC OS,JG42VC9R3L,購入,2025-01-10,,,,g.omata@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10058,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,CXTWM1VMJ2,購入,2024-05-27,,,,m.saito@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10087,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（US）,MAC OS,M2LG4706PR,購入,2025-01-10,,,,henry.winarta@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10088,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（US）,MAC OS,K3D9VK009T,購入,2025-01-10,,,,matthew.gultom@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10081,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,J2WNXKH2FY,購入,2024-10-16,,,,t.sugimoto@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10077,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,LD19KY3W1H,購入,2024-10-16,,,,s.sonoda@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10046,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,H96D2XQWW9,購入,2024-04-26,,検証機の為、MDM設定なし,,ito@josys.com,2025-06-10,,Yes,too,No,Used,makuhari,"",Japan
+tk-mac-10047,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,N69VFHRP09,購入,2024-04-26,,,,ito@josys.com,2025-06-10,,Yes,too,No,Used,makuhari,"",Japan
+tk-mac-10005,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0KN1WG7,購入,2023-01-16,,,,ito@josys.com,2025-06-10,,Yes,too,No,Used,makuhari,"",Japan
+tk-mac-10020,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFK52641WG7,購入,2023-05-24,,,,ito@josys.com,2025-06-10,,Yes,too,No,Used,makuhari,"",Japan
+tk-mac-10010,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0CT1WG7,購入,2023-01-16,,,,r.komuro@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10034,In-use,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,V2P4YGXND6,購入,2024-02-14,,channel イベント用で貸し出し,,a.kagawa@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10035,In-use,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,R2KWPPQXKF,購入,2024-02-14,,channel イベント用で貸し出し,,a.kagawa@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10012,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,R2KWPPQXKF,購入,2023-01-16,,,2,y.matsumoto@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10080,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,JXQH7JNJGN,購入,2024-10-16,,,,m.otsuka@josys.com,2025-08-01,,Yes,too,No,New,tokyo,"",Japan
+tk-mac-10082,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,LW2XFXH5P9,購入,2024-10-16,,,,t.ishino@josys.com,2025-06-16,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10042,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,HRXMH4XG9N,購入,2024-04-26,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10018,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,S75G0H71G0,購入,2023-04-18,,,,k.ishikura@josys.com,2025-06-13,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10030,Available,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,VWP16J44T5,購入,2023-10-23,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10016,Available,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFK51W21WG7,購入,2023-04-18,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10006,Available,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0KJ1WG7,購入,2023-01-16,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10027,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,X3W4MXQGJ7,購入,2023-09-11,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10078,In-use,Laptop,Apple,A3113,MacBook Air 13-inch（JIS）,MAC OS,K0CX7F03M6,購入,2024-10-16,,,,a.kagawa@josys.com,2025-07-01,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10013,Available,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,NTLHPR47NC,購入,2023-01-16,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10048,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,CL9TDCV2QF,購入,2024-04-26,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10026,Available,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,DGGQF4K5QX,購入,2023-09-01,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10017,Available,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,K2LF9P415G,購入,2023-04-18,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10054,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,TV2WTW7G3P,購入,2024-04-26,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10061,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,GP40TCN97N,購入,2024-05-27,,Tomoyoさんから拡張機能Intune自動配布について検証を依頼されているための使用。一旦OK出たけど、そのままにしておいてほしいとのことでITOロッカー（上段）に保管済み。,,e.sugimoto@josys.com,2025-06-30,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10024,In-use,Laptop,Apple,A2338,MacBook Pro 13-inch（US）,MAC OS,K7MRWHQP9G,購入,2023-09-01,,,,d.corbin@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10003,In-use,Laptop,Apple,A2337,MacBook Air 13-inch（JIS）,MAC OS,FVFJQ0KG1WG7,購入,2023-01-16,,,,r.komuro@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10066,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,FV40GJPK2Q,購入,2024-05-27,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10045,In-use,Laptop,Apple,A2681,MacBook Air 13.6-inch（US）,MAC OS,TXM5WY6Y09,購入,2024-04-26,,,,m.case@josys.com,2025-06-10,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10039,Available,Laptop,Apple,A2681,MacBook Air 13.6-inch（JIS）,MAC OS,KX690DX305,購入,2024-03-26,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10051,In-use,ノートPC,Apple,A2681,MacBook Air 13.6-inch（JIS）,Mac,D6CQT2W352,購入,2024-04-26,,,,t.takahara@josys.com,2025-07-16,,Yes,too,No,Used,Tokyo,スペースグレイ,Japan
+tk-mac-10076,In-use,ノートPC,Apple,A3113,MacBook Air 13-inch（JIS）,Mac,MN23QGX9MH,購入,2024-10-16,,イベント用マーケ貸し出し,,yu.yokoyama@josys.com,2025-06-13,,Yes,too,No,Used,Tokyo,スペースグレイ,Japan
+tk-mac-10033,Available,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,Mac,V1QPRG2X7R,購入,2024-02-14,,,,,,,No,too,No,Used,tokyo,"",Japan
+tk-mac-10085,In-use,Laptop,Apple,A3403,"MacBook Pro (16-inch, 2024) M4 Pro（US）",Mac,MVT009VJJW,購入,2025-01-10,,,,d.furuyama@josys.com,2025-06-26,,No,too,No,Used,tokyo,"",Japan
+tk-mac-10028,Unknown,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,VQDM7527CJ,購入,2023-10-23,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10031,Unknown,Laptop,Apple,A2338,MacBook Pro 13-inch（JIS）,MAC OS,VWQWH9P2DF,購入,2023-10-23,,,,,,,Yes,too,No,Used,tokyo,"",Japan
+tk-mac-10089,In-use,Laptop,Apple,A3240,"MacBook Air  13-inch, M4, 2025（JIS）",MAC OS,D4W7FH16GG,購入,2025-06-30,,,,t.orimoto@josys.com,2025-07-01,,Yes,too,No,New,makuhari,"",Japan
+tk-mac-10090,In-use,Laptop,Apple,A3240,"MacBook Air  13-inch, M4, 2025（JIS）513GB",MAC OS,GQ9Y0KDFY3,購入,2025-06-30,,,,h.matsuoka@josys.com,2025-07-01,,Yes,too,No,New,makuhari,"",Japan
+tk-mac-10091,In-use,Laptop,Apple,A3240,"MacBook Air  13-inch, M4, 2025（US）",MAC OS,F6YH94TKY7,購入,2025-06-30,,,,kolton.xie@josys.com,2025-07-25,,Yes,too,No,New,tokyo,"",Japan
+tk-mac-10092,Available,Laptop,Apple,A3240,"MacBook Air  13-inch, M4, 2025（US）",MAC OS,HWH3GV2KGT,購入,2025-06-30,,,,,,,Yes,too,No,New,tokyo,"",Japan
+H9DQ66MGFY,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,H9DQ66MGFY,brilyant,2025-07-17,,,,,,,Need to Confirm,Brilyant,Yes,New,Office Stock,"",India
+HTV3MJ909W,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,HTV3MJ909W,brilyant,2025-07-17,,,,,,,Need to Confirm,Brilyant,Yes,New,Office Stock,"",India
+LPFW50CXTH,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,LPFW50CXTH,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+C5VJPHK3JT,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,C5VJPHK3JT,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+HV4TXR4VQD,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,HV4TXR4VQD,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+F47MY91VWF,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,F47MY91VWF,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+KFPD424MNV,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,KFPD424MNV,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+HY9FT7K1HG,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,HY9FT7K1HG,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+J2KQWLDY1J,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,J2KQWLDY1J,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+JF2FLY6NMG,Available,Laptop,Apple,Macbook Pro 14 Inch M4 Chip,MacBook Pro 14 inch Apple M4 Pro chip,Mac OS,JF2FLY6NMG,brilyant,2025-07-17,,,,,,,Yes,Brilyant,Yes,New,Office Stock,"",India
+tk-win-10003,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKB,購入,2023-01-16,,,,ky.hirano@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10004,In-use,Laptop,HP,A3240,"MacBook Air  13-inch, M4, 2025（JIS）513GB",Windows,JPH237RKKQ,購入,2023-01-16,,,,w.onishi@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10007,In-use,Laptop,HP,A3240,"MacBook Air  13-inch, M4, 2025（US）",Windows,JPH237RKK8,購入,2023-01-16,,,,yuk.kouno@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10009,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKF,購入,2023-01-16,,,,event@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10010,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKX,購入,2023-01-16,,,,event@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10011,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKK9,購入,2023-01-16,,,,event@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10013,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKZ,購入,2023-01-16,,,,r.soma@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10014,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKL5,購入,2023-01-16,,,,k.takahashi@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10020,In-use,Laptop,HP,737T8PA#ABJ,HP Elitebook 630 G9,Windows,JPH322Q5LF,購入,2023-06-29,,,,e.hirasawa@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10022,In-use,Laptop,HP,737T8PA#ABJ,HP Elitebook 630 G9,Windows,JPH322Q5LG,購入,2023-06-29,,,,e.fujioka@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10023,In-use,Laptop,HP,737T8PA#ABJ,HP Elitebook 630 G9,Windows,JPH322Q5LS,購入,2023-06-29,,,,k.shiraishi@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10024,In-use,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCN4,購入,2023-07-31,,,,w.onishi@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10026,In-use,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCMY,購入,2023-07-31,,,,a.hayakawa@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10029,In-use,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCN1,購入,2023-07-31,,,,t.mizuno@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10030,In-use,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCN2,購入,2023-07-31,,,,y.endo@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10033,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH34191HB,購入,2023-10-23,,,,s.takeda@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10034,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH34191H8,購入,2023-10-23,,,,m.sugiura@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10035,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH34191H9,購入,2023-10-23,,,,t.sugano@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10036,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH404N9ZC,購入,2024-01-29,,,,r.ogasawara@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10037,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH404N9ZD,購入,2024-01-29,,,,m.nakamura@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10039,In-use,Laptop,HP,8X148PA#ABJ,HP Elitebook 630 G10,Windows,JPH349G2K3,購入,2024-02-14,,,,m.sugawara@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10040,In-use,Laptop,HP,8X148PA#ABJ,HP Elitebook 630 G10,Windows,JPH349G2GB,購入,2024-02-14,,,,e.sugimoto@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10041,In-use,Laptop,HP,8X148PA#ABJ,HP Elitebook 630 G10,Windows,JPH349G2FS,購入,2024-02-14,,,,y.sunami@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10042,In-use,Laptop,HP,8X148PA#ABJ,HP Elitebook 630 G10,Windows,JPH349G2JT,購入,2024-02-14,,,,s.sho@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10048,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH413Y3P1,購入,2024-04-04,,,,f.willis@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10052,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0AZCYP,購入,2024-04-17,,,,e.sugimoto@josys.com,2025-07-28,,Yes,LENOVO,No,"",tokyo,"",Japan
+tk-win-10053,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH41812D4,購入,2024-05-10,,,,,,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10055,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH41812D7,購入,2024-05-10,,,,h.matsuoka@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10057,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH41812D2,購入,2024-05-10,,,,n.kimura@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10058,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH41812D5,購入,2024-05-10,,,,r.shinno@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10063,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BMDA6,購入,2024-06-05,,,,y.shimizu@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10069,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZC,購入,2024-06-12,,,,t.arauchi@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10076,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZK,購入,2024-06-12,,,,y.kosaka@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10078,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZH,購入,2024-06-12,,,,n.okuda@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10079,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH438L3XZ,購入,2024-09-24,,,,k.tsurumi@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10080,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH438L3Y2,購入,2024-09-24,,,,y.tsukada@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10081,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH438L3Y0,購入,2024-09-24,,,,r.kikuchi@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10082,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH438L3XY,購入,2024-09-24,,,,m.matano@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10083,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH438L3Y1,購入,2024-09-24,,,,n.yagi@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10084,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH438L3XX,購入,2024-09-24,,,,t.ishibashi@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10086,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4XZK,購入,2024-09-18,,,,j.wang@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10087,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4XZA,購入,2024-09-18,,,,m.arai@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10089,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4X0M,購入,2024-09-18,,,,t.ogawa@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10090,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4WZM,購入,2024-09-18,,,,m.ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10091,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4XXP,購入,2024-09-18,,,,yu.nakamura@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10093,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4X0H,購入,2024-09-18,,,,h.sayama@josys.com,2025-07-28,,Yes,LENOVO,No,"",tokyo,"",Japan
+tk-win-10094,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4WZL,購入,2024-09-18,,,,e.kawashima@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10097,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EATZW,購入,2024-11-07,,,,a.hikichi@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10098,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EAV00,購入,2024-11-07,,,,s.hirano@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10099,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EAV02,購入,2024-11-07,,,,t.omori@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10100,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EAV03,購入,2024-11-07,,,,i.shimura@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10101,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EATZX,購入,2024-11-07,,,,m.yoneda@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10102,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EATZZ,購入,2024-11-07,,,,c.masuoka@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10103,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EAV05,購入,2024-11-07,,,,y.iida@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10104,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EATZY,購入,2024-11-07,,,,me.nakagawa@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10105,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EAV04,購入,2024-11-07,,,,r.sato@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10107,Available,Laptop,HP,B1TN1PA,HP EliteBook 630 G10,Windows,5CD4447MCN,購入,2024-12-26,,,,,,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10108,In-use,Laptop,HP,B1TN1PA,HP EliteBook 630 G10,Windows,5CD4447M71,購入,2024-12-26,,,,y.horie@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10112,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X96450F,購入,2025-05-12,,,,h.sone@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10113,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X91650D,購入,2025-05-12,,,,k.hyakudai@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10114,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X90350H,購入,2025-05-12,,,,a.kato@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10115,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X87950G,購入,2025-05-12,,,,r.fujie@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10116,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X96350G,購入,2025-05-12,,,,y.sakabe@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10117,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y08050C,購入,2025-06-12,,,,k.inoue@josys.com,2025-07-28,,Yes,KDDI,No,"",tokyo,"",Japan
+tk-win-10118,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y01950F,購入,2025-06-12,,,,i.tagawa@josys.com,2025-07-28,,Yes,KDDI,No,"",tokyo,"",Japan
+tk-win-10119,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y017500,購入,2025-06-12,,,,t.shigemori@josys.com,2025-07-28,,Yes,KDDI,No,"",tokyo,"",Japan
+tk-win-10120,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y079509,購入,2025-06-12,,,,y.nagahashi@josys.com,2025-07-28,,Yes,KDDI,No,"",tokyo,"",Japan
+tk-win-10121,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y01350A,購入,2025-06-12,,,,t.koyama@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10122,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X88250D,購入,2025-06-12,,,,k.yoshino@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10124,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y001508,購入,2025-06-12,,,,m.awaji@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10126,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X883509,購入,2025-06-12,,,,m.yoneda@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10018,Unknown,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH30794QM,購入,2023-03-27,,,,,,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10002,Unknown,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKK,購入,2023-01-16,,,,,,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10050,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0AZCYN,購入,2024-04-17,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10019,In-use,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH320N2P7,購入,2023-05-24,,,,ito@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10045,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH413Y3P2,購入,2024-04-04,,,,ito@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10064,Unknown,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BMDA4,購入,2024-06-05,,,,,,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10049,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0AZCYQ,購入,2024-04-17,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10062,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BMDA9,購入,2024-06-05,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10060,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BQPKN,購入,2024-06-05,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10061,Unknown,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BMDAA,購入,2024-06-05,,,,,,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10071,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZF,購入,2024-06-12,,,,ito@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10005,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKMB,購入,2023-01-16,,,,ito@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10067,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BQPKP,購入,2024-06-05,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10051,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0AZCYH,購入,2024-04-17,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10096,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook 14 Gen 6 AMD,Windows,PW0EAV01,購入,2024-11-07,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10106,In-use,Laptop,HP,B1TN1PA,HP EliteBook 630 G10,Windows,5CD4447MCL,購入,2024-12-26,,,,to.goto@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10056,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH41812D6,購入,2024-05-10,,,,y.tsuchiya@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10025,In-use,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCMZ,購入,2023-07-31,,,,d.fukushima@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10016,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH25149N4,購入,2023-03-27,,,,m.awaji@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10088,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4XYB,購入,2024-09-18,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10065,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BMDA8,購入,2024-06-05,,,,ito@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10074,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZJ,購入,2024-06-12,,,,m.yoshioka@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10095,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH438L3Y3,購入,2024-09-24,,,,m.sugiura@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10110,Available,Laptop,HP,A9UY6PT,HP EliteBook Ultra G1q（US）,Windows,8CG44411RB,購入,2024-12-26,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10068,Available,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BQPKW,購入,2024-06-05,,,,,,,Yes,LENOVO,"","",tokyo,"",Japan
+tk-win-10073,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZM,購入,2024-06-12,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10043,Available,Laptop,HP,8X148PA#ABJ,HP Elitebook 630 G10,Windows,JPH349G2FV,購入,2024-02-14,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10015,Available,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKT,購入,2023-01-16,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10017,In-use,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH25149P4,購入,2023-03-27,,,,n.kanda@josys.com,2025-07-28,,Yes,HP,No,"",tokyo,"",Japan
+tk-win-10008,Available,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKD,購入,2023-01-16,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10012,Available,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKLD,購入,2022-12-27,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10001,Available,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKKW,購入,2023-01-16,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10059,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH41812D3,購入,2024-05-10,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10027,Available,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCN0,購入,2023-07-31,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10077,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZG,購入,2024-06-12,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10054,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH41812D1,購入,2024-05-10,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10032,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH34191HC,購入,2023-10-23,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10075,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZL,購入,2024-06-12,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10044,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH413Y3NY,購入,2024-04-04,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10031,Available,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCN3,購入,2023-07-31,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10047,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH413Y3P0,購入,2024-04-04,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10066,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0BQPKL,購入,2024-06-05,,,,m.tsukada@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10072,In-use,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH4234SZD,購入,2024-06-12,,,,t.nakamura@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10085,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4XXN,購入,2024-09-18,,,,t.funao@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10123,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y012505,購入,2025-06-12,,,,m.sugawara@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10125,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y01450C,購入,2025-06-12,,,,m.tsukada@josys.com,2025-07-28,,Yes,KDDI,No,"",makuhari,"",Japan
+tk-win-10038,Available,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH404N9ZB,購入,2024-01-29,,,,,,,Yes,HP,"","",makuhari,"",Japan
+tk-win-10092,In-use,Laptop,Lenovo,21KJ007RJP,ThinkBook14 G6 ABP,Windows,PW0D4XYW,購入,2024-09-18,,,,m.oikawa@josys.com,2025-07-28,,Yes,LENOVO,No,"",makuhari,"",Japan
+tk-win-10028,In-use,Laptop,HP,6H3C3AV,HP Elitebook 630 G9,Windows,JPH329ZCN5,購入,2023-07-31,,,,k.yokoyama@josys.com,2025-07-28,,Yes,HP,No,"",makuhari,"",Japan
+tk-win-10006,Unknown,Laptop,HP,737S2PA#ABJ,HP Elitebook 630 G9,Windows,JPH237RKL3,購入,2023-01-16,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10021,Unknown,Laptop,HP,737T8PA#ABJ,HP Elitebook 630 G9,Windows,JPH322Q5LN,購入,2023-06-29,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10046,Unknown,Laptop,HP,795N8AV,HP Elitebook 630 G10,Windows,JPH413Y3NZ,購入,2024-04-04,,,,,,,Yes,HP,"","",tokyo,"",Japan
+tk-win-10127,In-use,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07X86950C,購入,2025-07-08,,,,r.shinno@josys.com,2025-07-28,,Yes,KDDI,No,"",tokyo,"",Japan
+tk-win-10128,Available,Laptop,ASUS,BM1403CDA-S60355X,ASUS EXPERTBOOK,Windows,SCNXCV07Y069509,購入,2025-07-08,,,,,,,Yes,KDDI,No,"",tokyo,"",Japan
