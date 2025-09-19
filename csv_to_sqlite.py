@@ -41,6 +41,11 @@ def setup_database():
     print(f"Provisions CSV: {len(provisions_df)} rows, {len(provisions_df.columns)} columns")
     print("Provision columns:", list(provisions_df.columns))
     
+    print("\nLoading josys-app-portfolio.csv...")
+    portfolio_df = pd.read_csv('josys-app-portfolio.csv', dtype=str, na_filter=False)
+    print(f"Portfolio CSV: {len(portfolio_df)} rows, {len(portfolio_df.columns)} columns")
+    print("Portfolio columns:", list(portfolio_df.columns))
+    
     # Clean column names for SQLite compatibility
     print("\nCleaning column names...")
     original_device_cols = list(devices_df.columns)
@@ -48,6 +53,9 @@ def setup_database():
     
     original_provision_cols = list(provisions_df.columns)
     provisions_df.columns = [clean_column_name(col) for col in provisions_df.columns]
+    
+    original_portfolio_cols = list(portfolio_df.columns)
+    portfolio_df.columns = [clean_column_name(col) for col in portfolio_df.columns]
     
     # Print column mapping for verification
     print("\nDevice column mapping:")
@@ -60,8 +68,14 @@ def setup_database():
         if orig != clean:
             print(f"  '{orig}' -> '{clean}'")
     
+    print("\nPortfolio column mapping:")
+    for orig, clean in zip(original_portfolio_cols, portfolio_df.columns):
+        if orig != clean:
+            print(f"  '{orig}' -> '{clean}'")
+    
     print(f"\nFinal device columns ({len(devices_df.columns)}): {list(devices_df.columns)}")
     print(f"\nFinal provision columns ({len(provisions_df.columns)}): {list(provisions_df.columns)}")
+    print(f"\nFinal portfolio columns ({len(portfolio_df.columns)}): {list(portfolio_df.columns)}")
     
     # Create database
     db_path = 'josys_data.db'
@@ -81,6 +95,11 @@ def setup_database():
     provisions_records = provisions_df.to_dict('records')
     db['provisions'].insert_all(provisions_records)
     print(f"  ✓ Inserted {len(provisions_records)} provision records with {len(provisions_df.columns)} columns")
+    
+    print("Creating app_portfolio table with ALL columns...")
+    portfolio_records = portfolio_df.to_dict('records')
+    db['app_portfolio'].insert_all(portfolio_records)
+    print(f"  ✓ Inserted {len(portfolio_records)} portfolio records with {len(portfolio_df.columns)} columns")
     
     # Enable FTS (Full-Text Search) on key searchable columns
     print("\nSetting up full-text search...")
@@ -120,6 +139,24 @@ def setup_database():
             print(f"  ✓ Enabled FTS on {len(provision_text_columns)} provision columns")
         except Exception as e:
             print(f"  ⚠ FTS setup warning for provisions: {e}")
+    
+    # FTS for app_portfolio table - identify searchable text columns
+    portfolio_text_columns = []
+    for col in portfolio_df.columns:
+        col_lower = col.lower()
+        if any(keyword in col_lower for keyword in [
+            'app', 'identifier', 'role', 'first', 'last', 'name', 'email', 
+            'status', 'category', 'department', 'title', 'additional'
+        ]):
+            portfolio_text_columns.append(col)
+    
+    print(f"Portfolio FTS columns: {portfolio_text_columns}")
+    if portfolio_text_columns:
+        try:
+            db['app_portfolio'].enable_fts(portfolio_text_columns, create_triggers=True)
+            print(f"  ✓ Enabled FTS on {len(portfolio_text_columns)} portfolio columns")
+        except Exception as e:
+            print(f"  ⚠ FTS setup warning for app_portfolio: {e}")
     
     # Create helpful views using the actual column names
     print("\nCreating helpful views...")
@@ -186,15 +223,46 @@ def setup_database():
     except Exception as e:
         print(f"  ⚠ View creation warning: {e}")
     
+    # Create portfolio view with dynamic column names
+    app_col = next((col for col in portfolio_df.columns if col.lower() == 'app'), 'App')
+    identifier_col = next((col for col in portfolio_df.columns if 'identifier' in col.lower()), 'Identifier')
+    id_col = next((col for col in portfolio_df.columns if col.lower() == 'id'), 'ID')
+    account_status_col = next((col for col in portfolio_df.columns if 'account' in col.lower() and 'status' in col.lower()), 'Account_Status')
+    roles_col = next((col for col in portfolio_df.columns if 'role' in col.lower() and '(' in col), 'Role_s_')
+    portfolio_email_col = next((col for col in portfolio_df.columns if col.lower() == 'email'), 'Email')
+    portfolio_user_id_col = next((col for col in portfolio_df.columns if 'user' in col.lower() and 'id' in col.lower()), 'User_ID')
+    
+    app_access_view = f'''
+        CREATE VIEW IF NOT EXISTS app_access_summary AS
+        SELECT 
+            {app_col} as App,
+            {identifier_col} as Identifier,
+            {id_col} as User_Account,
+            {account_status_col} as Account_Status,
+            {roles_col} as Roles,
+            {portfolio_email_col} as Email,
+            {portfolio_user_id_col} as User_ID
+        FROM app_portfolio 
+        WHERE {account_status_col} = 'Activated';
+    '''
+    
+    try:
+        db.executescript(app_access_view)
+        print("  ✓ Created app_access_summary view")
+    except Exception as e:
+        print(f"  ⚠ View creation warning: {e}")
+    
     # Verify the database
     print(f"\n✅ Database created successfully: {db_path}")
     print(f"   📊 Devices table: {len(devices_df)} records, {len(devices_df.columns)} columns")
     print(f"   👥 Provisions table: {len(provisions_df)} records, {len(provisions_df.columns)} columns")
+    print(f"   🏢 App Portfolio table: {len(portfolio_df)} records, {len(portfolio_df.columns)} columns")
     
     # Show table schemas
     print(f"\n📋 Table schemas:")
     print(f"   Devices columns: {', '.join(devices_df.columns)}")
     print(f"   Provisions columns: {', '.join(provisions_df.columns[:10])}... (showing first 10 of {len(provisions_df.columns)})")
+    print(f"   Portfolio columns: {', '.join(portfolio_df.columns)}")
     
     return db_path
 

@@ -1,164 +1,134 @@
-# Josys Data Analysis with Datasette & NL2SQL
+# Josys Data Analysis with AI-Powered NL2SQL
 
-This project provides **AI-powered Natural Language to SQL (NL2SQL)** querying for Josys device and user provisioning data using [Datasette](https://datasette.io/) with OpenAI GPT integration.
+This project provides **AI-powered Natural Language to SQL (NL2SQL)** querying for Josys organizational data with comprehensive analytics and insights. It uses OpenAI GPT integration to convert natural language questions into SQL queries and provides detailed analysis with cross-reference capabilities.
 
-## 📊 Database Overview
+## ✨ Key Features
 
-- **Devices Table**: 530 records with 23 columns (Asset management data)
-- **Provisions Table**: 911 records with 63 columns (User access and application provisioning data)
-- **Full-text search** enabled on all key columns
-- **AI-powered NL2SQL** with GPT-3.5/4 integration
-- **Smart fallback** regex patterns when AI is unavailable
+- **🧠 AI Insights & Analytics**: Intelligent analysis of query results with contextual insights
+- **📊 Breakdown Analysis**: Detailed component analysis showing individual counts and intersections
+- **🔍 Key Findings**: Important discoveries and patterns from your queries
+- **🔗 Cross-Reference Results**: Detailed user listings with status indicators and blocker identification
+- **💡 Smart Suggestions**: Interactive query suggestions based on your search
+- **📋 Comprehensive Results**: Clean, readable list format with detailed user information
+- **🔍 Full-Text Search**: Advanced search capabilities across all data tables
+
+## 📊 Database Coverage
+
+- **Devices Database**: 530+ records with asset management data (laptops, computers, phones, etc.)
+- **Provisions Database**: 900+ records with user access and application provisioning data  
+- **App Portfolio Database**: 4,000+ records with detailed application access, roles, and cost information
 
 ## 🚀 Quick Start
 
-### 1. Database Setup (Already Done!)
-The SQLite database `josys_data.db` has been created with **ALL** columns from both CSV files:
+### Prerequisites
+- Python 3.8 or higher
+- OpenAI API key
+
+### 1. Clone the Repository
+```bash
+git clone <repository-url>
+cd aiq
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Set Up OpenAI API Key
+Create a `.env` file in the project root:
+```bash
+echo 'OPENAI_API_KEY=your_openai_key_here' > .env
+```
+
+### 4. Start the Service
+```bash
+python3 start_nlp_service.py
+```
+
+The service will start and be available at `http://localhost:5000`
+
+## 📖 Usage
+
+### Starting the Service
+```bash
+python3 start_nlp_service.py
+```
+
+### Accessing the Enhanced Interface
+1. Open your browser and navigate to `http://localhost:5000`
+2. Ask questions in natural language
+3. Get comprehensive analysis with multiple insight sections
+
+### 🎯 Enhanced Query Experience
+
+The interface provides **8 comprehensive sections** for every query:
+
+1. **🧠 AI Insights & Analytics** - Intelligent analysis and contextual insights
+2. **📊 Breakdown Analysis** - Individual component counts and intersections
+3. **🔍 Key Findings** - Important patterns and discoveries
+4. **🔗 Cross-Reference Results** - Detailed user listings with status indicators
+5. **📋 Results** - Clean, readable data with detailed information
+6. **💡 Smart Suggestions** - Interactive follow-up query recommendations
+7. **📋 Comprehensive Summary** - Overall analysis overview
+8. **📝 Generated SQL Query** - Technical details for developers
+
+### Example Queries
+
+**Complex Multi-Criteria Queries:**
+- `"Anyone with Lenovo laptop with AWS Admin Access and also active licence of Notion app?"`
+- `"List of macbook laptops assigned to employees in India"`
+- `"AWS admins in Japan with GitHub access"`
+
+**Access Analysis Queries:**
+- `"Share AWS Admin usernames"`
+- `"Who has GitHub access?"`
+- `"List users with both Slack and AWS access"`
+
+**Hardware Analysis Queries:**
+- `"Show available MacBooks in Bangalore"`
+- `"List devices owned by specific users"`
+- `"How many devices are assigned in each city?"`
+
+## 🔧 Additional Instructions
+
+### Generating the Database
+If you need to regenerate the database from the CSV files:
 
 ```bash
-python3 csv_to_sqlite.py  # Creates josys_data.db with full data
+python3 csv_to_sqlite.py
 ```
 
-### 2. Start Enhanced Datasette with NL2SQL
-```bash
-# Optional: Set OpenAI API key for full AI capabilities
-export OPENAI_API_KEY='your-api-key-here'
+This script will:
+1. Read `josys-devices.csv`, `josys-provisions.csv`, and `josys-app-portfolio.csv`
+2. Clean and normalize column names
+3. Create `josys_data.db` SQLite database
+4. Set up full-text search indexes
+5. Create useful views for common queries
 
-# Start Datasette with NL2SQL support
-python3 start_nl2sql_datasette.py
-# Opens http://localhost:8001 with AI query assistance
-```
+**Note**: The database `josys_data.db` is already included in the repository, so this step is only needed if you want to update the data with new CSV files.
 
-### 3. Use NL2SQL Query Interfaces
-```bash
-python3 nl2sql_interface.py     # Interactive AI-powered CLI
-python3 sample_queries.py       # Run sample queries (legacy)
-```
+### Database Schema
+- **Devices Table**: Asset management with Device_Type, Manufacturer, Assigned_User_s_Email, City, Region, etc.
+- **Provisions Table**: User access to 57+ applications (GitHub, Slack, AWS, Google Workspace, Notion, etc.)
+- **App Portfolio Table**: Detailed application access with App, Role_s, Monthly_Expense, Account_Status, etc.
 
-## 🤖 NL2SQL Natural Language Queries
+## 🛠️ Troubleshooting
 
-### ✅ **FIXED**: The Original Problem
-**Query**: `"List devices owned by shyam.vasudevan@josys.com"`  
-**Result**: ✅ **Works perfectly!** - Found MacBook Pro M3 (D6JR9KF77M) in Bangalore
+### Quick Solutions
 
-### 🎯 AI-Powered Query Examples
-The system now handles complex natural language with **90%+ accuracy**:
+#### Database Issues
+- **Database not found**: Ensure you're in the correct directory or run `python3 csv_to_sqlite.py`
+- **CSV files missing**: Ensure `josys-devices.csv`, `josys-provisions.csv`, and `josys-app-portfolio.csv` are present
 
-#### Device Queries (All Working!)
-- `"List devices owned by shyam.vasudevan@josys.com"` ✅
-- `"Show available MacBooks in Bangalore"` ✅ 
-- `"Find Apple laptops that are in use"` ✅
-- `"What devices does P0001 have?"` ✅
-- `"Show me all decommissioned equipment"` ✅
-- `"Which laptops haven't been assigned?"` ✅
+#### API Configuration
+- **OpenAI API key missing**: Create `.env` file with `OPENAI_API_KEY=your_key_here`
+- **API errors**: Verify your OpenAI API key is valid and has available credits
 
-#### User Access Queries
-- `"What access does P0002 have?"` ✅
-- `"List all IT Admin users"` ✅
-- `"Who has GitHub access?"` ✅
-- `"Find users with both Slack and AWS access"` ✅
-- `"Show inactive user accounts"` ✅
+#### Service Issues  
+- **Port 5000 in use**: Stop other services or modify port in `nlp_openai_interface.py`
+- **Module errors**: Run `pip install -r requirements.txt`
 
-#### Advanced Analytics Queries
-- `"How many devices are assigned in each city?"` ✅
-- `"Count Apple vs Dell laptops by status"` ✅
-- `"Show device utilization by department"` ✅
-- `"Find devices assigned in the last 30 days"` ✅
-
-## 📋 Available Data
-
-### Device Columns (23 total)
-- Asset_Number, Device_Status, Device_Type, Manufacturer
-- Model_Number, Model_Name, Operating_System, Serial_Number
-- Device_Procurement, Start_Date, End_Date, Additional_Information
-- Assigned_User_s_ID, Assigned_User_s_Email, Assigned_Date, Unassigned_Date
-- MDM, Vendor, Apple_Care, Asset_Status, City, color, Region
-
-### Provision Columns (63 total)
-- User info: First_Name, Last_Name, User_ID, Email, Status, Role
-- Location: Work_Location_Code
-- **57 Application/Service Access Columns** including:
-  - Microsoft_365_Azure_AD, Google_Workspace_-_josys_com
-  - GitHub, Slack, Atlassian, Zoom, Microsoft_Teams
-  - AWS accounts (multiple), Datadog instances, Notion, HubSpot
-  - And many more enterprise applications
-
-## 🌐 Web Interface Features
-
-Visit `http://localhost:8001` after starting Datasette:
-
-- **Interactive SQL queries** with autocomplete
-- **Full-text search** across all data
-- **Export to CSV/JSON** for any query
-- **Custom views**: 
-  - `active_devices_with_users` - Currently assigned devices
-  - `user_access_summary` - Active user summary
-- **API endpoints** for programmatic access
-
-## 🛠️ Advanced Usage
-
-### Custom SQL Queries
-```sql
--- Find all MacBooks assigned in Bangalore
-SELECT * FROM devices 
-WHERE Device_Type LIKE '%Laptop%' 
-  AND Manufacturer = 'Apple' 
-  AND City = 'Bangalore';
-
--- Users with both GitHub and AWS access
-SELECT User_ID, First_Name, Last_Name, Email
-FROM provisions 
-WHERE GitHub = 'Activated' 
-  AND Amazon_Web_Services_AWS_-_AWS_Root_Account != '';
-```
-
-### Full-Text Search
-```sql
--- Search across all device data
-SELECT * FROM devices_fts WHERE devices_fts MATCH 'Intel performance';
-
--- Search across all user data  
-SELECT * FROM provisions_fts WHERE provisions_fts MATCH 'admin developer';
-```
-
-## 📁 Files
-
-- `josys_data.db` - SQLite database with all data
-- `csv_to_sqlite.py` - Database creation script
-- `nlp_query_interface.py` - NLP query engine
-- `start_datasette.py` - Web server launcher
-- `sample_queries.py` - Example queries
-- `metadata.json` - Datasette configuration
-
-## 🎯 Key Features
-
-✅ **AI-Powered NL2SQL** - OpenAI GPT-3.5/4 integration for 90%+ query accuracy  
-✅ **Smart Fallbacks** - Enhanced regex patterns when AI unavailable  
-✅ **Complete Data Preservation** - All 23 device + 63 provision columns  
-✅ **Semantic Understanding** - "owned by" = "assigned to" automatically  
-✅ **Query Caching** - Fast repeated queries  
-✅ **Web Interface** - Interactive data exploration with AI assistance  
-✅ **API Access** - Programmatic data access  
-✅ **Export Capabilities** - CSV, JSON output  
-✅ **Custom Views** - Pre-built useful queries  
-
-## 🆚 Before vs After Comparison
-
-| Feature | Before (Regex) | After (NL2SQL) |
-|---------|---------------|----------------|
-| **Original Problem Query** | ❌ Failed | ✅ **WORKS!** |
-| **Query Flexibility** | ~20 patterns | ♾️ Unlimited |
-| **Accuracy** | ~60% | 90%+ |
-| **Maintenance** | High (manual patterns) | Low (self-improving) |
-| **User Experience** | Frustrating | Natural conversation |
-| **Complex Queries** | Not supported | Advanced analytics |
-
-## 💡 Tips
-
-- Use the web interface for visual exploration
-- Use the NLP CLI for quick natural language queries
-- Export query results to CSV for further analysis
-- Combine multiple filters for complex queries
-- Use the API for automated reporting
-
-For more information, visit the [Datasette documentation](https://docs.datasette.io/).
+#### Query Optimization
+- **Better results**: Be specific, use exact terms, try rephrasing queries
+- **Complex queries**: Use multi-criteria queries for comprehensive cross-reference analysis
